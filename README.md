@@ -96,6 +96,7 @@ The application will:
 ##🎥 Demo
 ![show](app_demo.png)
 ## 📌 Example Output
+---
 
 ```text
 🎤 Speak now...
