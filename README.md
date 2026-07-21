@@ -4,7 +4,7 @@ A simple AI-powered Voice Assistant built with Python
 
 This project demonstrates a complete Speech-to-Text → Large Language Model → Text-to-Speech pipeline. It records the user's voice, converts speech into text using OpenAI Whisper, generates an AI response using Cohere, and converts the response back into speech using Edge-TTS
 
----
+
 
 ## 🚀 Features
 
