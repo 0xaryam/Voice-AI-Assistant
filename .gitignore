@@ -1,0 +1,5 @@
+venv/
+__pycache__/
+.env
+audio/input.wav
+audio/output.mp3
