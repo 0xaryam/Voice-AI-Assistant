@@ -93,7 +93,7 @@ The application will:
 5. Save the output as `audio/output.mp3`
 
 ---
-##🎥 Demo
+## 🎥 Demo
 ![show](app_demo.png)
 ---
 ## 📌 Example Output
