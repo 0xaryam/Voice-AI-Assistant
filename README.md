@@ -93,6 +93,8 @@ The application will:
 5. Save the output as `audio/output.mp3`
 
 ---
+##🎥 Demo
+![show](app_demo.png)
 ## 📌 Example Output
 
 ```text
@@ -125,3 +127,9 @@ Place all screenshots inside the `screenshots` folder
 See `requirements.txt` for all required Python packages
 
 ---
+
+---
+
+## 👩‍💻 Author
+
+**Aryam Aseiri**
