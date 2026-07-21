@@ -1,10 +1,8 @@
 # 🎙️ Voice AI Assistant
 
-A simple AI-powered Voice Assistant built with Python.
+A simple AI-powered Voice Assistant built with Python
 
-This project records the user's voice, converts speech into text using Whisper, generates an AI response using Cohere, and converts the response back into speech using Edge-TTS.
-
----
+This project demonstrates a complete Speech-to-Text → Large Language Model → Text-to-Speech pipeline. It records the user's voice, converts speech into text using OpenAI Whisper, generates an AI response using Cohere, and converts the response back into speech using Edge-TTS
 
 ## 🚀 Features
 
@@ -30,14 +28,13 @@ This project records the user's voice, converts speech into text using Whisper, 
 
 ## 📂 Project Structure
 
-```
+```text
 Voice-AI-Assistant/
 │
 ├── app.py
 ├── README.md
 ├── requirements.txt
 ├── .gitignore
-
 │
 ├── audio/
 │   ├── input.wav
@@ -94,7 +91,7 @@ The application will:
 
 ---
 ## 🎥 Demo
-![show](app_demo.png)
+![Voice AI Assistant Demo](app_demo.png)
 ---
 ## 📌 Example Output
 
@@ -134,3 +131,5 @@ See `requirements.txt` for all required Python packages
 ## 👩‍💻 Author
 
 **Aryam Aseiri**
+
+GitHub: https://github.com/0xaryam
