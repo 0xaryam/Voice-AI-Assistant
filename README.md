@@ -37,7 +37,7 @@ Voice-AI-Assistant/
 ├── README.md
 ├── requirements.txt
 ├── .gitignore
-├── .env
+
 │
 ├── audio/
 │   ├── input.wav
@@ -53,7 +53,7 @@ Voice-AI-Assistant/
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Voice-AI-Assistant.git
+git clone https://github.com/0xaryam/Voice-AI-Assistant.git
 ```
 
 Go to the project folder:
@@ -93,7 +93,20 @@ The application will:
 5. Save the output as `audio/output.mp3`
 
 ---
+## 📌 Example Output
 
+```text
+🎤 Speak now...
+✅ Audio saved.
+
+📝 Recognized Text:
+Hello, how are you?
+
+🤖 AI Response:
+Hello! I'm doing great. How can I help you today?
+
+✅ Speech generation finished.
+```
 ## 📸 Screenshots
 
 Add screenshots of:
@@ -103,7 +116,7 @@ Add screenshots of:
 - AI response
 - Generated audio
 
-Place them inside the `screenshots` folder
+Place all screenshots inside the `screenshots` folder
 
 ---
 
